@@ -1,0 +1,10 @@
+div > p {
+  border: 2px;
+  border-color: #fabada;
+  border-style: solid;
+}
+
+
+.importante + p {
+  color: red;
+}
